@@ -1,1 +1,2 @@
-# BrainTraining_Android
+  - ![1](https://github.com/user-attachments/assets/5c892033-33ef-46e9-bf8e-2c2a0d02061c)
+  - ![2](https://github.com/user-attachments/assets/108ac66a-472e-428a-a54d-bffbd9c3d24c)
